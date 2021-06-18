@@ -40,7 +40,6 @@ body{
 .column {
     float: left;
     width: 33.33%;
-    box-shadow: 0.5rem 1.5rem 1.5rem #000;
   }
   
   /* Clear floats after the columns */
@@ -49,4 +48,10 @@ body{
     display: table;
     clear: both;
     
+  }
+
+  .heading-pizza {
+    align-items: center;
+    display: flex;
+  justify-content: center;
   }
