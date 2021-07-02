@@ -51,9 +51,8 @@ body{
   }
 
   .heading-pizza {
-       align-items: center;
-    display: flex;
+   align-items: center;
+   display: flex;
   justify-content: center;
-       font-size: large;
-      
+   font-size: large;   
   }
