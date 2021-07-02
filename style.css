@@ -54,6 +54,7 @@ body{
    align-items: center;
    display: flex;
   justify-content: center;
+      font-size: x-large;
   }
 h1 {
     font-size: x-large;
