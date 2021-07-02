@@ -54,9 +54,5 @@ body{
        align-items: center;
     display: flex;
   justify-content: center;
-     font-size: large;
-   
+       font-size: 5px;
   }
-.h1 {
-  font-size: 40px;
-}
